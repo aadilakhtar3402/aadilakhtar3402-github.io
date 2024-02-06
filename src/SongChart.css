@@ -1,0 +1,60 @@
+/* src/components/SongChart.css */
+.song-list {
+    padding: 0;
+  }
+
+  .song-icon {
+    width: 48px; /* Adjust the size of the small icon */
+    height: 48px;
+    border-radius: 50%; /* Make it circular */
+    margin-right: 16px; /* Adjust spacing if needed */
+  }
+  .song-card:hover .song-icon {
+  width: 32px; /* Adjust the size of the icon on hover */
+  height: 32px;
+}
+
+  .song-card {
+    border: 1px solid #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 15px;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  }
+  
+  .song-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+  }
+  .song-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .song-cover {
+    width: 100%;
+    height: 150px; /* Adjust the height as needed */
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  .song-details {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px; /* Adjust spacing between icon and details */
+  }
+  .song-title {
+    font-size: 18px;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .song-artist {
+    font-size: 14px;
+  }
+  

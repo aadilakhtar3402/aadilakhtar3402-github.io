@@ -1,0 +1,58 @@
+/* src/components/SongDetails.css */
+.song-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertically center align */
+    align-items: center; /* Horizontally center align */
+    background-color: #121212;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(76, 130, 76, 0.4);
+  }
+  
+  .song-cover {
+    max-width: 60%; /* Limit the width to the container's width */
+    height: auto; /* Maintain aspect ratio */
+    display: flex; /* Ensure the margin: auto works */
+    margin: 0 auto; /* Center the image horizontally */
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .song-details h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .song-details p {
+    font-size: 16px;
+    text-align: center; /* Center-align the text */
+  }
+
+  .song-details pre {
+    text-align: center; /* Align text inside <pre> to the left */
+    white-space: pre-wrap; /* Allow line breaks and preserve spaces */
+  }
+
+  .song-details *,
+  .song-details p,
+  .song-details h3 {
+    color: #ffffff !important;
+  }
+  
+  .back-link {
+    display: block;
+    margin-top: 20px;
+    color: #007bff !important;
+    cursor: pointer;
+  }
+
+  .watch-on-youtube {
+    color: #007bff !important; /* Blue color */
+  }
+  
+  .back-link:hover {
+    text-decoration: underline;
+  }
+  
