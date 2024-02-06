@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aadilakhtar3402-github.io/static/css/main.740eb5cf.css",
-    "main.js": "/aadilakhtar3402-github.io/static/js/main.8f90750d.js",
+    "main.css": "/aadilakhtar3402-github.io/static/css/main.b955e70c.css",
+    "main.js": "/aadilakhtar3402-github.io/static/js/main.7ecddd11.js",
     "static/js/592.b6dd2461.chunk.js": "/aadilakhtar3402-github.io/static/js/592.b6dd2461.chunk.js",
     "index.html": "/aadilakhtar3402-github.io/index.html",
-    "main.740eb5cf.css.map": "/aadilakhtar3402-github.io/static/css/main.740eb5cf.css.map",
-    "main.8f90750d.js.map": "/aadilakhtar3402-github.io/static/js/main.8f90750d.js.map",
+    "main.b955e70c.css.map": "/aadilakhtar3402-github.io/static/css/main.b955e70c.css.map",
+    "main.7ecddd11.js.map": "/aadilakhtar3402-github.io/static/js/main.7ecddd11.js.map",
     "592.b6dd2461.chunk.js.map": "/aadilakhtar3402-github.io/static/js/592.b6dd2461.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.740eb5cf.css",
-    "static/js/main.8f90750d.js"
+    "static/css/main.b955e70c.css",
+    "static/js/main.7ecddd11.js"
   ]
 }
