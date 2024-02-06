@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/song-collection/static/css/main.740eb5cf.css",
-    "main.js": "/song-collection/static/js/main.b9f88814.js",
-    "static/js/592.b6dd2461.chunk.js": "/song-collection/static/js/592.b6dd2461.chunk.js",
-    "index.html": "/song-collection/index.html",
-    "main.740eb5cf.css.map": "/song-collection/static/css/main.740eb5cf.css.map",
-    "main.b9f88814.js.map": "/song-collection/static/js/main.b9f88814.js.map",
-    "592.b6dd2461.chunk.js.map": "/song-collection/static/js/592.b6dd2461.chunk.js.map"
+    "main.css": "/aadilakhtar3402-github.io/static/css/main.740eb5cf.css",
+    "main.js": "/aadilakhtar3402-github.io/static/js/main.8f90750d.js",
+    "static/js/592.b6dd2461.chunk.js": "/aadilakhtar3402-github.io/static/js/592.b6dd2461.chunk.js",
+    "index.html": "/aadilakhtar3402-github.io/index.html",
+    "main.740eb5cf.css.map": "/aadilakhtar3402-github.io/static/css/main.740eb5cf.css.map",
+    "main.8f90750d.js.map": "/aadilakhtar3402-github.io/static/js/main.8f90750d.js.map",
+    "592.b6dd2461.chunk.js.map": "/aadilakhtar3402-github.io/static/js/592.b6dd2461.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.740eb5cf.css",
-    "static/js/main.b9f88814.js"
+    "static/js/main.8f90750d.js"
   ]
 }
